@@ -1,16 +1,16 @@
 @font-face {
     font-family: aquirebold;
-    src: url(font/AquireBold-8Ma60.otf);
+    src: url(AquireBold-8Ma60.otf);
 }
 
 @font-face {
     font-family: Helvetica;
-    src: url(font/helvetica-rounded-bold-5871d05ead8de.otf);
+    src: url(helvetica-rounded-bold-5871d05ead8de.otf);
 }
 
 @font-face {
     font-family: bubble;
-    src: url(font/BUBBLEGUMS.TTF);
+    src: url(BUBBLEGUMS.TTF);
 }
 
 
@@ -333,32 +333,32 @@
 }
 
 .Tracks .Tracksrow .card-item:nth-child(1) {
-    background-image: url(img/track2\ \(2\).jpg);
+    background-image: url(track2\ \(2\).jpg);
 
 }
 
 .Tracks .Tracksrow .card-item:nth-child(2) {
-    background-image: url(img/track1.jpg);
+    background-image: url(track1.jpg);
 
 }
 
 .Tracks .Tracksrow .card-item:nth-child(3) {
-    background-image: url(img/track3.jpg);
+    background-image: url(track3.jpg);
 
 }
 
 .Tracks .Tracksrow .card-item:nth-child(4) {
-    background-image: url(img/track5.jpg);
+    background-image: url(track5.jpg);
 
 }
 
 .Tracks .Tracksrow .card-item:nth-child(5) {
-    background-image: url(img/track2\ \(2\).jpg);
+    background-image: url(track2\ \(2\).jpg);
 
 }
 
 .Tracks .Tracksrow .card-item:nth-child(6) {
-    background-image: url(img/track3.jpg);
+    background-image: url(track3.jpg);
 
 }
 
