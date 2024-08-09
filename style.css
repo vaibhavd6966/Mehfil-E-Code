@@ -348,17 +348,17 @@
 }
 
 .Tracks .Tracksrow .card-item:nth-child(1) {
-    background-image: url(img/track2\ \(2\).jpg);
+    background-image: url(track2\ \(2\).jpg);
 
 }
 
 .Tracks .Tracksrow .card-item:nth-child(2) {
-    background-image: url(img/track1.jpg);
+    background-image: url(track1.jpg);
 
 }
 
 .Tracks .Tracksrow .card-item:nth-child(3) {
-    background-image: url(img/track3.jpg);
+    background-image: url(track3.jpg);
 
 }
 
@@ -368,12 +368,12 @@
 }
 
 .Tracks .Tracksrow .card-item:nth-child(5) {
-    background-image: url(img/track2\ \(2\).jpg);
+    background-image: url(track2\ \(2\).jpg);
 
 }
 
 .Tracks .Tracksrow .card-item:nth-child(6) {
-    background-image: url(img/track3.jpg);
+    background-image: url(track3.jpg);
 
 }
 
