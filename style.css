@@ -1,16 +1,16 @@
 @font-face {
     font-family: aquirebold;
-    src: url(font/AquireBold-8Ma60.otf);
+    src: url(AquireBold-8Ma60.otf);
 }
 
 @font-face {
     font-family: Helvetica;
-    src: url(font/helvetica-rounded-bold-5871d05ead8de.otf);
+    src: url(helvetica-rounded-bold-5871d05ead8de.otf);
 }
 
 @font-face {
     font-family: bubble;
-    src: url(font/BUBBLEGUMS.TTF);
+    src: url(BUBBLEGUMS.TTF);
 }
 
 
